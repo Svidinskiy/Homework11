@@ -75,7 +75,6 @@ public class Main {
         System.out.print("Укажите расстояние от офиса банка до адреса доставки: ");
         int deliveryDistance = scanner.nextInt();
         checkDistance(deliveryDistance);
-
         System.out.println("\n");
     }
 }
